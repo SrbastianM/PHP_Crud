@@ -1,3 +1,3 @@
 # PHP_Crud
 
-Es una aplicacion web que guarda tareas, permite editarlas y borrarlas, desarrollada en MySql, Xampp, PHP y Html
+Crud PHP, Create, Read,  Update and Delete make in MySql, Xampp, PHP y Html
